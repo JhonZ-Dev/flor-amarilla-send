@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+:root {
+    --color-bg: linear-gradient(to top, #c65dd9, #475f5c); 
+    --line-color: linear-gradient(to left top, #82ff86 20%, #144425, #104e1c);
+    --flower-center: radial-gradient(circle, #000, #ff5e00);
+    --leaf-color: radial-gradient(circle, #82ff86, #104e1c);
+    --petal-color: radial-gradient(circle, #ffeb00, #524112);
+}
