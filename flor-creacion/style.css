@@ -31,3 +31,10 @@ body{
     bottom: 2vmin;
     animation: moving-flower-1 4s linear infinite;
 }
+.flower_stem{
+    width: 2vmin;
+    height: 65vmin;
+    background-image: var(--line-color);
+    border-radius: 4vmin;
+    animation-delay: 0.3s;
+}
