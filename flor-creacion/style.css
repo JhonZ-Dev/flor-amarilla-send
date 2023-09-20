@@ -25,3 +25,9 @@ body{
     justify-content: center;
     overflow: hidden;
 }
+.flower_wrapper{
+    position: absolute;
+    left: 50%;
+    bottom: 2vmin;
+    animation: moving-flower-1 4s linear infinite;
+}
