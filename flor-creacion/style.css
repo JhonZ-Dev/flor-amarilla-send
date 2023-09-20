@@ -38,3 +38,15 @@ body{
     border-radius: 4vmin;
     animation-delay: 0.3s;
 }
+.flower_center{
+    position: absolute;
+    top: 0vmin;
+    left: 50%;
+    z-index: 5;
+    transform: translateX(-50%) rotate(-10deg);
+    width: 20vmin;
+    height: 20vmin;
+    border-radius: 50%;
+    background: var(--flower-center);
+    animation: open-flower-middle 2s 0.4s backwards;
+}
