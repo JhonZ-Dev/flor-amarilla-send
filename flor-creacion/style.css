@@ -18,3 +18,10 @@ body{
     overflow: hidden;
     
 }
+.audio-container{
+    background-image: var(--color-bg);
+    min-height: 100vh;
+    align-items: flex-end;
+    justify-content: center;
+    overflow: hidden;
+}
