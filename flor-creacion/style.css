@@ -10,3 +10,11 @@
     --leaf-color: radial-gradient(circle, #82ff86, #104e1c);
     --petal-color: radial-gradient(circle, #ffeb00, #524112);
 }
+body{
+    background-image: var(--color-bg);
+    min-height: 100vh;
+    align-items: flex-end;
+    justify-content: center;
+    overflow: hidden;
+    
+}
